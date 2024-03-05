@@ -107,7 +107,7 @@ nav ul li p{
 
 .hero-text-decoration{
     background: linear-gradient(5deg , blue 10% , green 60%, orange);
-    /* -webkit-background-clip: text; */
+    -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
 }
