@@ -112,6 +112,10 @@ nav ul li p{
     color: transparent;
 }
 
+.non-decorated{
+    color: black;
+}
+
 .gap{
     height: 30px;
     text-align: center;
