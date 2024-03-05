@@ -760,3 +760,31 @@ hr{
         margin-right: auto;
     }
 }
+
+@media only screen and (max-width: 406px){
+    footer ul {
+        gap: 10px;
+    }
+
+    .footer-logo {
+        display: none !important;
+        visibility: visible;
+    }
+
+}
+
+@media only screen and (max-width: 354px){
+    footer ul {
+        gap: 10px;
+    }
+
+    .hero-text h2 {
+        font-size: smaller;
+    }
+
+    .footer-logo {
+        display: none !important;
+        visibility: visible;
+    }
+
+}
