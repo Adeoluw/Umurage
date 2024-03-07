@@ -9,6 +9,12 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+    width: 100%;
+}
+
 .blob{
     position: absolute;
     top: 0;
